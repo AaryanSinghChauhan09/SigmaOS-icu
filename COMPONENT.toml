@@ -3,7 +3,7 @@ name = "SigmaOS-icu"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "icu component"
+description = "ICU"
 upstream = []
 
 [contract]
